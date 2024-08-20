@@ -42,6 +42,13 @@
     //         "default": ""
     //     }
     // },
+
+    "hyprland/workspaces": {
+	"disable-scroll": true,
+	"all-outputs": true,
+	"warp-on-scroll": false,
+    },
+
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
