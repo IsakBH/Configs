@@ -21,7 +21,6 @@
         "cpu",
         "memory",
         "temperature",
-	"battery",
         "clock",
         "custom/power"
     ],
@@ -45,10 +44,9 @@
 
     "hyprland/workspaces": {
 	"disable-scroll": true,
-	"all-outputs": true,
-	"warp-on-scroll": false,
+	"all-outputs": true
     },
-
+    
     "keyboard-state": {
         "numlock": true,
         "capslock": true,
@@ -118,14 +116,14 @@
         "format": "{}%"
     },
     "wlr/taskbar": {
-        //"format": "{icon} {title:.17}",
         "format": "{icon}",
-	"icon-size": 21,
+        "icon-size": 21,
         "spacing": 3,
         "on-click-middle": "close",
         "tooltip-format": "{title}",
         "ignore-list": [],
-        "on-click": "activate"
+        "on-click": "activate",
+        "all-outputs": true
     },
     "temperature": {
         // "thermal-zone": 2,
