@@ -1,17 +1,23 @@
 ![image](https://github.com/user-attachments/assets/26a94fee-c9b9-4d64-9132-65570c903cfc)
 
+### Ting jeg bruker
 
-Ting:
-     ** OS ** - Arch Linux
-     ** DE/WM ** - Hyprland
-     ** Status Bar ** - Waybar
-     ** GUI File Manager ** - Nautilus
-     ** CLI File Manager ** - NNN
-     ** Terminal ** - Kitty
-     ** Shell ** - Bash
-     ** Notifications ** - SwayNC
-     ** Launcher ** - Wofi
-     ** Wallpaper ** - Hyprpaper
-     ** Browser ** - Firefox (Hardened)
-     ** Screen lock ** - Hyprlock
-     ** System Fetch ** - Neofetch
+<div>
+  <p> </p>
+    
+  -  _OS_ -------------------- Arch Linux
+  -  _DE/WM_ --------------- Hyprland 
+  -  _Status Bar_ ------------ Waybar 
+  -  _GUI File Manager_ ---- Nautilus (GUI) NNN (CLI)
+  -  _Terminal_ -------------- Kitty
+  -  _Shell_ ------------------ Bash 
+  -  _Notifications_ ---------- SwayNC
+  -  _Launcher_ -------------- Wofi
+  -  _Wallpaper manager_ -- Hyprpaper
+  -  _Browser_ --------------- Firefox
+  -  _Screen lock_ ----------- Hyprlock
+  -  _System Fetch_ --------- Neofetch
+</div>  
+
+## Sjekk nettsiden min btw
+  - https://isak.brunhenriksen.no/
