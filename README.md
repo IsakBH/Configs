@@ -17,6 +17,8 @@
   -  _Browser_ --------------- Firefox
   -  _Screen lock_ ----------- Hyprlock
   -  _System Fetch_ --------- Neofetch
+
+^  Layout stjålet fra (https://github.com/Cybersnake223/Hypr)
 </div>  
 
 ## Sjekk nettsiden min btw
