@@ -8,7 +8,7 @@
   -  _OS_ -------------------- Arch Linux
   -  _DE/WM_ --------------- Hyprland 
   -  _Status Bar_ ------------ Waybar 
-  -  _GUI File Manager_ ---- Nautilus (GUI) NNN (CLI)
+  -  _File Manager_ ---- Nautilus (GUI) NNN (CLI)
   -  _Terminal_ -------------- Kitty
   -  _Shell_ ------------------ Bash 
   -  _Notifications_ ---------- SwayNC
