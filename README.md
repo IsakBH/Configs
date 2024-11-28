@@ -14,7 +14,7 @@
   -  _Notifications_ ---------- SwayNC
   -  _Launcher_ -------------- Wofi
   -  _Wallpaper manager_ -- Hyprpaper
-  -  _Browser_ --------------- Firefox
+  -  _Browser_ --------------- Firefox/Zen
   -  _Screen lock_ ----------- Hyprlock
   -  _System Fetch_ --------- Neofetch
 
